@@ -2,7 +2,7 @@
 
 Saudações! :vulcan_salute:
 
-Esse repositório tem como objetivo ajudar os alunos da faculdade Bandtec, com a parte da integração com serviços de terceiros/mensageria, que são requeridos nas "sprints" dos projetos semestrais.
+Esse repositório tem como objetivo ajudar os alunos da faculdade Bandtec, com a parte de integração com serviços de terceiros/mensageria, que são requeridos nas "sprints" dos projetos semestrais.
 
 É um simples exemplo de como consumir o Webhook do Slack utilizando a linguagem Java.
 
@@ -106,7 +106,7 @@ Pull requests são bem-vindas. Para mudanças importantes, abra uma issue primei
 Certifique-se de testar seu código.
 
 ## Code Owners
-@Britooo
+[@Britooo](https://github.com/Britooo)
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)

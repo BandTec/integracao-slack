@@ -62,6 +62,7 @@ Escolha uma de sua preferência.
 
 Se você possuí uma versão anterior ao **Java 11**, deverá utilizar o código contido no pacote **"java"**, caso contrário, se possuí uma versão igual ou acima, utilize como referência o código contido no pacote **"java11"**
 
+Assim que clonar o projeto, abra em sua IDE e execute o comando **"clean and build"** para forçar o download das dependencias, nesse caso só utilizaremos uma [**JSON Object**](https://mvnrepository.com/artifact/org.json/json)
 
 Você precisará colocar sua URL obtida na configuração do workspace nesse atributo chamado "URL", dentro da classe Slack:
 

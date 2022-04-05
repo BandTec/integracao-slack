@@ -100,11 +100,11 @@ ublic class App {
 
 ### **Fácil né?** :grinning:
 
-## Contribuiçoes
+## Contribuições
 Pull requests são bem-vindas. Para mudanças importantes, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
-
 Certifique-se de testar seu código.
+
 
 ## Code Owners
 [@Britooo](https://github.com/Britooo)

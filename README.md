@@ -54,7 +54,7 @@ $ sdk install maven
 
 ### Alguma IDE Java
 
-Na faculdade, dependendo do semestre, utilizamos algumas IDE's como por exemplo [**IntelliJ**](https://www.jetbrains.com/pt-br/idea/), [**Netbeans**](https://netbeans.apache.org/), [**Vscode**]() e etc...
+Na faculdade, dependendo do semestre, utilizamos algumas IDE's como [**IntelliJ**](https://www.jetbrains.com/pt-br/idea/), [**NetBeans**](https://netbeans.apache.org/), [**VS Code**](https://code.visualstudio.com/), etc...
 
 Escolha uma de sua preferência.
 
